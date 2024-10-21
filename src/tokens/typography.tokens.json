@@ -31,9 +31,9 @@
   },
   "font-weight": {
     "type": "dimension",
-    "1": { "value":"400px" },
-    "2": { "value":"600px" },
-    "3": { "value":"700px" }
+    "1": { "value":"400" },
+    "2": { "value":"600" },
+    "3": { "value":"700" }
   },
   "font-family":{
     "default":{

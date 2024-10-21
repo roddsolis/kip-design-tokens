@@ -3,4 +3,5 @@ import App from "./App";
 import "./style/variables.css";
 import "./style.css";
 
+
 ReactDOM.createRoot(document.querySelector("#root")).render(<App />);

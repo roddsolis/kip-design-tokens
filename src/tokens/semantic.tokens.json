@@ -1,68 +1,31 @@
 {
-  "color": {
-    "text": {
-      "primary": {
-        "value": "{neutral-700}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{neutral-500}",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "{neutral-400}",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "{neutral-300}",
-        "type": "color"
-      },
-      "brand": {
-        "value": "{brand-500}",
-        "type": "color"
-      },
-      "info": {
-        "value": "{neutral-600}",
-        "type": "color"
-      },
-      "success": {
-        "value": "{neutral-600}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{neutral-600}",
-        "type": "color"
-      },
-      "error": {
-        "value": "{neutral-600}",
-        "type": "color"
-      },
-      "link": {
-        "value": "{neutral-600}",
-        "type": "color"
-      },
-      "background": {
-        "default": {
-          "value": "{neutral-100}",
-          "type": "color"
-        },
-        "alternative": {
-          "value": "{neutral-0}",
-          "type": "color"
-        }
+  "title": {
+    "large": {
+      "type": "typography",
+      "value": {
+        "fontWeight": "{font-weight.3.value}",
+        "fontSize": "{font-size.10.value}",
+        "lineHeight": "{line-height.10.value}",
+        "fontFamily": "{font-family.default.value}"
       }
     }
   },
-  "text styles": {
-    "title-large": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{font-family.default}",
-        "fonSize": "{font-size.10}",
-        "lineHeight": "{line-height.10}",
-        "letterSpacing": "{letter-spacing.default}",
-        "fontWeight": "{font-weight.3}"
-      }
+  "color": {
+    "text": {
+      "primary": { "value": "{neutral-700}", "type": "color" },
+      "secondary": { "value": "{neutral-500}", "type": "color" },
+      "tertiary": { "value": "{neutral-400}", "type": "color" },
+      "disabled": { "value": "{neutral-300}", "type": "color" },
+      "brand": { "value": "{brand-500}", "type": "color" },
+      "info": { "value": "{neutral-600}", "type": "color" },
+      "success": { "value": "{neutral-600}", "type": "color" },
+      "warning": { "value": "{neutral-600}", "type": "color" },
+      "error": { "value": "{neutral-600}", "type": "color" },
+      "link": { "value": "{neutral-600}", "type": "color" }
+    },
+    "background": {
+      "default": { "value": "{neutral-100}", "type": "color" },
+      "alternative": { "value": "{neutral-50}", "type": "color" }
     }
   }
 }
