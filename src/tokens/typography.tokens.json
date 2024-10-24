@@ -36,6 +36,7 @@
     "3": { "value":"700" }
   },
   "font-family":{
+    
     "default":{
         "value":"inter"
     },

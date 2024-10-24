@@ -1,5 +1,6 @@
 {
     "source": [
+    "src/tokens/component.tokens.json",
     "src/tokens/semantic.tokens.json",
     "src/tokens/color.tokens.json",
     "src/tokens/border.tokens.json",
@@ -9,6 +10,7 @@
     "src/tokens/shadow.tokens.json",
     "src/tokens/spacing.tokens.json",
     "src/tokens/typography.tokens.json"
+    
   ],
     "platforms": {
       "web": {

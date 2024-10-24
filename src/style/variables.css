@@ -3,8 +3,13 @@
  */
 
 :root {
+  --button-primary-text: [object Object];
+  --button-primary-color-text: #ffffff;
+  --button-primary-color-surface: #893af2;
   --title-large: [object Object];
+  --button-text-medium: [object Object];
   --color-text-primary: #2a323c;
+  --color-text-primary-inverse: #ffffff;
   --color-text-secondary: #5d6f85;
   --color-text-tertiary: #a2b5cd;
   --color-text-disabled: #c3d0df;
@@ -16,6 +21,8 @@
   --color-text-link: #343f4b;
   --color-background-default: #f1f4f8;
   --color-background-alternative: #f8f9fc;
+  --color-surface-brand: #893af2;
+  --color-surface-brand-strong: #690ee1;
   --brand-50: rgba(189, 145, 248, 0.15);
   --brand-100: rgba(189, 145, 248, 0.3);
   --brand-200: rgba(189, 145, 248, 0.6);

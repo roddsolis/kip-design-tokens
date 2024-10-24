@@ -1,0 +1,9 @@
+{
+    "button":{
+        "primary":{
+            "text":{"value":"{button-text.medium.value}"},
+            "color-text":{"value":"{color.text.primary-inverse.value}"},
+            "color-surface":{"value":"{color.surface.brand.value}"}
+        }
+    }
+}

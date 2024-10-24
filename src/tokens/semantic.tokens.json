@@ -10,9 +10,22 @@
       }
     }
   },
+  "button-text": {
+    "medium": {
+      "type": "typography",
+      "value": {
+        "fontWeight": "{font-weight.2.value}",
+        "fontSize": "{font-size.3.value}",
+        "lineHeight": "{line-height.3.value}",
+        "fontFamily": "{font-family.default.value}"
+      }
+    }
+  },
+  
   "color": {
     "text": {
       "primary": { "value": "{neutral-700}", "type": "color" },
+      "primary-inverse": { "value": "{neutral-0}", "type": "color" },
       "secondary": { "value": "{neutral-500}", "type": "color" },
       "tertiary": { "value": "{neutral-400}", "type": "color" },
       "disabled": { "value": "{neutral-300}", "type": "color" },
@@ -26,6 +39,11 @@
     "background": {
       "default": { "value": "{neutral-100}", "type": "color" },
       "alternative": { "value": "{neutral-50}", "type": "color" }
-    }
+    },
+    "surface":{
+      "brand":{"value":"{brand-400}", "type":"color"},
+      "brand-strong":{"value":"{brand-500}", "type":"color"}
   }
+  }
+  
 }
